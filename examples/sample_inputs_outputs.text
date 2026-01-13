@@ -1,0 +1,25 @@
+INPUT:
+According to FDIC Section 3.2, what are the primary objectives of an effective loan review system, and how do these objectives support credit risk management?
+OUTPUT:
+An effective loan review system is intended to identify loans with well-defined credit weaknesses in a timely manner, enable prompt corrective action to minimize credit losses, and provide management with accurate information regarding the quality of the loan portfolio. The system also supports credit risk management by identifying trends affecting collectibility, assessing adherence to lending policies, and providing reliable input for determining the Allowance for Loan and Lease Losses (ALLL) or Allowance for Credit Losses (ACL).
+
+INPUT:
+What responsibilities does FDIC Section 3.2 assign to a bank’s board of directors with respect to lending policies?
+OUTPUT:
+FDIC Section 3.2 assigns the board of directors responsibility for formulating and approving written lending policies and for supervising their implementation. The board is expected to ensure that lending policies are kept current, reviewed periodically, and revised as necessary to reflect changes in the institution’s circumstances, customer needs, and economic conditions.
+
+INPUT:
+When estimating credit losses, what categories of factors must management consider beyond historical loss experience under FDIC guidance?
+OUTPUT:
+Beyond historical loss experience, management must consider past events, current conditions, and reasonable and supportable forecasts that may affect collectibility. FDIC guidance also emphasizes the consideration of qualitative factors, changes in lending policies, changes in economic conditions, changes in portfolio composition, and other relevant risk characteristics when estimating credit losses.
+
+INPUT:
+Given the loan application details provided, what regulatory factors should be reviewed under FDIC Section 3.2 before proceeding further with evaluation of this loan?
+OUTPUT:
+Under FDIC Section 3.2, the loan should be reviewed for consistency with the institution’s written lending policies, adequacy of loan documentation, appropriateness of credit risk grading, and alignment with the institution’s loan administration and review systems. Consideration should also be given to whether the loan can be effectively monitored and reviewed within the institution’s loan review framework and whether sufficient information exists to assess collectibility and credit risk.
+
+INPUT:
+Based on the loan application information and FDIC Section 3.2, does the regulation provide sufficient basis to proceed with this loan, or is additional review required?
+OUTPUT:
+FDIC Section 3.2 does not provide prescriptive approval criteria for individual loans. While the regulation outlines expectations for lending policies, credit administration, and loan review systems, it requires management judgment and appropriate internal review. Based on the application information, additional review may be required to ensure compliance with institutional lending policies, adequacy of documentation, and proper risk assessment before proceeding.
+
